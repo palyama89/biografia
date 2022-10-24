@@ -1,0 +1,87 @@
+*{
+    background-color: rgb(209, 209, 209);
+    color: black;
+    text-align: left;
+    font-family: 'Poppins', 'Ultra';
+}
+
+.flexContenedor{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexPerfil{
+    width: 50%;
+}
+
+.tituloPpal{
+    font-size: 400%;
+    font-style: italic;
+    font-family: font-family: 'Ultra';
+    line-height: 0%;
+}
+
+h2{
+    font-style: normal;
+    line-height: 0%;
+    color: rgb(71, 71, 71);
+    font-family: font-family: 'Ultra';
+}
+
+.titulos{
+    font-size: 200%;
+    font-style: italic;
+}
+
+.divInline{
+    display:block;
+}
+
+#biografia{
+    text-align: justify;
+    display: inline-block;
+}  
+
+.texto{
+    margin-left: 15px;
+    text-indent: 1em;
+}
+
+h3{
+    line-height: 0%;
+}
+
+h4{
+    line-height: 0%;
+}
+
+#familia{
+    display:inline-block;
+}
+
+#filmografia{
+    display:inline-block;
+}
+
+.lista{
+    margin-left: 15px;
+}
+
+#premios{
+    display:inline-block;
+}
+
+.flexElemento{
+    width: 24%;
+    margin: 5px;
+}
+
+.flexContenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.foot{
+    text-align: right;
+}
